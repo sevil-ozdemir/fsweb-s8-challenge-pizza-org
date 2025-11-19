@@ -16,8 +16,12 @@
     "axios": "^1.6.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-router-dom": "^5.2.0",
     "reactstrap": "^9.2.3"
+=======
+    "react-router-dom": "^5.2.0"
+>>>>>>> 9b4bca25c017dd36ce72f4cb1d0ca6b260a25d14
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
@@ -27,6 +31,10 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+<<<<<<< HEAD
     "vite": "^7.2.2"
+=======
+    "vite": "^5.0.8"
+>>>>>>> 9b4bca25c017dd36ce72f4cb1d0ca6b260a25d14
   }
 }
